@@ -141,6 +141,16 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               ICE Beacon Emergency System - Revolutionizing emergency medical response through cutting-edge technology. 
               Helping save lives, one tap at a time.
             </p>
+            <div className="mt-4 text-gray-400 text-sm">
+              <a 
+                href="https://ice-beacon-zup4.vercel.app/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-blue-400 hover:text-blue-300 transition-colors"
+              >
+                https://ice-beacon-zup4.vercel.app/
+              </a>
+            </div>
             <div className="mt-6 flex items-center justify-center space-x-6 text-sm text-gray-500">
               <span>© 2024 ICE Beacon</span>
               <span>•</span>

@@ -2,6 +2,8 @@
 
 A powerful emergency healthcare platform that uses NFC-enabled devices (wristbands, cards, keychains, stickers) to allow instant access to vital medical information and emergency contacts. Designed to save lives by providing quick access to essential data without requiring a login.
 
+🌐 **Live Demo:** [https://ice-beacon-zup4.vercel.app/](https://ice-beacon-zup4.vercel.app/)
+
 ---
 
 ## 📱 Platform Overview
